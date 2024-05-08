@@ -1,2 +1,9 @@
 __pycache__
-nashypy.egg-info
+.pytest_cache
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+*.egg-info
